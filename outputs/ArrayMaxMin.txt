@@ -1,0 +1,4 @@
+// Output of ArrayMaxMin
+Max: 91
+Min: 34
+Average: 65.2
