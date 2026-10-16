@@ -1,0 +1,7 @@
+// Output of Calculator
+10 + 5 = 15
+10 - 5 = 5
+10 * 5 = 50
+10 / 4 = 2.5
+Cannot divide by zero
+10 / 0 = 0.0
