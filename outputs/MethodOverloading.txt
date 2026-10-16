@@ -1,0 +1,4 @@
+// Output of MethodOverloading
+5
+9
+6.0
