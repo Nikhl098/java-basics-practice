@@ -1,0 +1,4 @@
+// Output of PalindromeCheck
+"madam" palindrome? true
+"Never odd or even" palindrome? true
+"testing" palindrome? false
