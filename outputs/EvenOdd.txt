@@ -1,0 +1,6 @@
+// Output of EvenOdd
+7 is odd
+12 is even
+0 is even
+-3 is odd
+20 is even
