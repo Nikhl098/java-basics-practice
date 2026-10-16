@@ -1,0 +1,4 @@
+// Output of Encapsulation
+Rahul scored 85
+Invalid marks: 150 (must be 0 to 100)
+Rahul still has 85
