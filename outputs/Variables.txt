@@ -1,0 +1,6 @@
+// Output of Variables
+Name: Amit
+Age: 22
+Height: 5.8
+Grade: A
+Learning Java: true
