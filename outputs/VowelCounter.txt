@@ -1,0 +1,3 @@
+// Output of VowelCounter
+Text: Software Testing
+Vowels: 5
