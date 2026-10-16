@@ -1,0 +1,4 @@
+// Output of ExceptionHandling
+Caught: Index 5 out of bounds for length 3
+Caught: / by zero
+finally block always runs
